@@ -1,0 +1,38 @@
+html
+{
+    
+    background: url("a.jpg") transparent; 
+    color:rgb(119, 113, 202) ;
+
+    
+}
+  
+
+}
+fieldset
+{
+    
+   width: 50px;
+    
+   border: 2px solid;
+   border-radius:5px;
+
+
+   color:white ;
+}
+
+.btn_submit {
+    border-radius:5px;
+    border-color:white;
+    background:linear-gradient(to bottom, white 5%, white 50%);
+    color:#B22222;
+
+    }
+.titulo
+{
+    text-align:center;
+    color:white;
+    font-size:25px;
+}
+    
+  
